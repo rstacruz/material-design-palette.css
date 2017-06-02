@@ -6,8 +6,14 @@
 color: var(--md-blue-500);
 ```
 
+Files:
+
 - [material-design-palette.css](material-design-palette.css) (CSS format)
 - [material-design-palette.scss](material-design-palette.scss) (Sass format)
+
+Also see:
+
+- [Color palette reference](https://material.io/guidelines/style/color.html#color-color-palette) (material.io)
 
 ## Thanks
 
